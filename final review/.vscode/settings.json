@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "locale": "c",
+        "istream": "c",
+        "*.tcc": "c",
+        "__locale": "c",
+        "functional": "c",
+        "pthread.h": "c",
+        "string.h": "c"
+    }
+}
